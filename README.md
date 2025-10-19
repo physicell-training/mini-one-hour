@@ -10,7 +10,7 @@ Other PhysiCell online training courses can be found at https://PhysiCell.org/Tr
 * Read the [Introduction](https://github.com/physicell-training/essentials/blob/main/README.md#introduction) from the **PhysiCell Essentials** short course
 * Software setup: Web browser, or optional PhysiCell Studio Desktop
 
-## Introduction 
+## Main Session
 Session 1: Introduction and a guided cancer model walk-through 
 
 After briefly introducing key concepts in agent-based modeling and our grammar for modeling signal-behavior relationships in cells, we use PhysiCell Studio (on Galaxy) to iteratively build a model of cancer growth, epithelial-mesenchymal transition (EMT), and response to chemotherapy. 

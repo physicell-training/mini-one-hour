@@ -7,7 +7,7 @@ Other PhysiCell online training courses can be found at https://PhysiCell.org/Tr
 
 ## Pre-requisites 
 * Background knowledge: Basic knowledge of biology, and concepts of mathematical functions.
-* Read the Introduction from the **PhysiCell Essentials** short course [[click here]](https://github.com/physicell-training/essentials/blob/main/slides/Introduction_to_ABM_and_PhysiCell_(v2025.10.18).pdf)
+* Read the [Introduction](https://github.com/physicell-training/essentials/blob/main/README.md#introduction) from the **PhysiCell Essentials** short course
 * Software setup: Web browser, or optional PhysiCell Studio Desktop
 
 ## Introduction 
@@ -15,5 +15,4 @@ Session 1: Introduction and a guided cancer model walk-through
 
 After briefly introducing key concepts in agent-based modeling and our grammar for modeling signal-behavior relationships in cells, we use PhysiCell Studio (on Galaxy) to iteratively build a model of cancer growth, epithelial-mesenchymal transition (EMT), and response to chemotherapy. 
 
-* **Slides:** [[click here]](https://github.com/physicell-training/essentials/blob/main/slides/Introduction_to_ABM_and_PhysiCell_(v2025.10.18).pdf)
-
+* **Slides:** [[click here]](https://github.com/physicell-training/mini-one-hour/blob/main/slides/PhysiCell_mini_1hour_course_(v2025.10.18).pdf)
